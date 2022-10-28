@@ -1,5 +1,5 @@
 require 'libs.version'
-require 'libs.import'
+require 'libs.include'
 
 include 'libs.type'
 include 'libs.ensure'
